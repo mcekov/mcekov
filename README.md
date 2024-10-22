@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi There!👋 \\^o^/
+===================================================================================
 
-<!--
-**mcekov/mcekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### \- Web developer
 
-Here are some ideas to get you started:
+I'm Momchi - I'm a front-end developer. I work on random projects in my free time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies that I know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,tailwind,css,js,md,nodejs,bun,deno,express,nestjs,ts,mysql,postgres,mongo,prisma,jest,redux,react,nextjs,remix,svelte,solidjs,angular,astro,bash,rust,py,supabase,github&perline=15" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,planetscale,docker,sqlite,linux,postman,vercel,vite" />
+  </a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/gustavocadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/gustavocadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/gustavocadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gustavocadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/gustavocadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/gustavocadev" target="_blank" rel="noreferrer">
+
+### Support Me
+
+
+<a href="[https://buymeacoffee.com/mtsekov](https://buymeacoffee.com/mtsekov)]"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
