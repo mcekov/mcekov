@@ -16,7 +16,7 @@ I'm Momchi - I'm a front-end developer. I work on random projects in my free tim
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,tailwind,css,js,md,nodejs,bun,deno,express,nestjs,ts,mysql,postgres,mongo,prisma,jest,redux,react,nextjs,remix,svelte,solidjs,angular,astro,bash,rust,py,supabase,github&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,html,tailwind,css,js,md,nodejs,express,ts,mysql,mongo,prisma,jest,redux,react,nextjs,bash,supabase,github,linux,figma&perline=15" />
   </a>
 </p>
 
@@ -25,10 +25,6 @@ I'm Momchi - I'm a front-end developer. I work on random projects in my free tim
     <img src="https://skillicons.dev/icons?i=vscode,figma,planetscale,docker,sqlite,linux,postman,vercel,vite" />
   </a>
 </p>
-
-### Socials
-
-/* <p align="left"> <a href="https://www.dev.to/gustavocadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/gustavocadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/gustavocadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gustavocadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/gustavocadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/gustavocadev" target="_blank" rel="noreferrer"> */
 
 ### Support Me
 
