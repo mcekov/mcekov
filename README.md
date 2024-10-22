@@ -22,10 +22,11 @@ I'm Momchi - I'm a front-end developer. I work on random projects in my free tim
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,planetscale,docker,sqlite,linux,postman,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=figma,docker,sqlite,linux,vite,webpack,photoshop,illustrator" />
   </a>
 </p>
 
 ### Support Me
-
-<a href="https://buymeacoffee.com/mtsekov"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="center">
+  <a href="https://buymeacoffee.com/mtsekov"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</p>
