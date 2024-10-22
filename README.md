@@ -1,3 +1,4 @@
+
 Hi There!👋
 ===================================================================================
 
@@ -16,11 +17,10 @@ I'm Momchi - I'm a front-end developer. I work on random projects in my free tim
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,tailwind,css,js,md,nodejs,express,ts,mysql,mongo,prisma,jest,redux,react,nextjs,bash,supabase,github,figma,docker,sqlite,linux,vite,webpack,photoshop,illustrator&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,tailwind,nextjs,md,nodejs,express,ts,mysql,mongo,prisma,jest,redux,bash,supabase,github,docker,sqlite,linux,vite,webpack,figma,photoshop,illustrator&perline=15"/>
   </a>
 </p>
 
-### Support Me
 <p align="center">
   <a href="https://buymeacoffee.com/mtsekov"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
