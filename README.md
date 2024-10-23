@@ -22,5 +22,5 @@ I'm Momchi - I'm a front-end developer. I work on random projects in my free tim
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/mtsekov"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+  <a href="https://buymeacoffee.com/mtsekov"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
 </p>
