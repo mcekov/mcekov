@@ -17,7 +17,7 @@ I'm Momchi - I'm a front-end developer. I work on random projects in my free tim
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,tailwind,nextjs,md,nodejs,express,ts,mysql,mongo,prisma,jest,redux,supabase,github,docker,sqlite,bash,linux,vite,webpack,figma,photoshop,illustrator&perline=15"/>
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,tailwind,nextjs,vue,md,nodejs,express,ts,mysql,mongo,prisma,jest,redux,supabase,github,docker,sqlite,bash,linux,vite,webpack,figma,photoshop,illustrator&perline=15"/>
   </a>
 </p>
 
