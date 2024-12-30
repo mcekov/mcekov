@@ -4,7 +4,7 @@ Hi There!👋
 
 ### \- Web developer
 
-I'm Momchi - I'm a front-end developer. I work on random projects in my free time!
+I'm Momchi - front-end developer. I work on random projects in my free time!
 
 ### Skills
 
