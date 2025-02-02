@@ -4,7 +4,7 @@ Hi There!👋
 
 ### \- Web developer
 
-I'm Momchi - front-end developer. I work on random projects in my free time!
+Hey there! I'm Momchi, a front-end developer passionate about building sleek and interactive web experiences. I love experimenting with new technologies and working on random projects in my free time. Always learning, always coding!
 
 ### Skills
 
